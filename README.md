@@ -1,8 +1,5 @@
-<h1 align="center">👋🏼 Howdy! </h1>
+#👋🏼 Howdy, I'm heli!
 
-<p align="center">
 Thank you for taking the time to explore my profile; I appreciate it.
-</p>
 
-
-## 🔹About Me:-
+## 🔹I take part in the following:
