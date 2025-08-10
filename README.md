@@ -6,7 +6,7 @@ Thank you for taking the time to explore my profile; I appreciate it.
 - Discord Community Architecture ; Management & Moderation
 - Tinkering with Discord Bots, and Mastering them
 - Coding with popular languages like Python, HTML and CSS
-- Content Writing
+- Content Writing (Documentations etc.)
 - Minecraft Texture Pack Creation (Fixing 3D Model Textures & Creation of Mashup Packs)
 
 ## 🔹About Me:
