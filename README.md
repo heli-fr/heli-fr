@@ -20,5 +20,7 @@ The name is Yuvraj (aka @heli_fr), I'm a 15-year-old student from New Delhi, Ind
 **🔺 Notice**: If you would like to reach out to me, kindly mail me at [**heli-fr@outlook.com**](mailto:heli-fr@outlook.com), OR you can email me at [**heli-fr@duck.com**](mailto:heli-fr@duck.com) ; you can @mention me at any of the mutual discord servers!
 
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/587605569439924224.png" width="300"/>
+  <a href="https://discord.com/users/587605569439924224">
+    <img src="https://lanyard.cnrad.dev/api/587605569439924224?showDisplayName=true&idleMessage=idling..." alt="Discord Presence" />
+  </a>
 </div>
