@@ -17,6 +17,6 @@ The name is Yuvraj (aka @heli_fr), I'm a 15-year-old student from New Delhi, Ind
 - Portfolio: [heli-fr.github.io](https://heli-fr.github.io) [HIGHLY WIP, Might change Domain]
 - Github: You're here LMAO.
 
-https://discord.c99.nl/widget/theme-4/587605569439924224.png
+  <img src="https://discord.c99.nl/widget/theme-4/587605569439924224.png" width="300"/>
 
 **🔺 Notice**: If you would like to reach out to me, kindly mail me at [**heli-fr@outlook.com**](mailto:heli-fr@outlook.com), OR you can email me at [**heli-fr@duck.com**](mailto:heli-fr@duck.com) ; you can @mention me at any of the mutual discord servers!
