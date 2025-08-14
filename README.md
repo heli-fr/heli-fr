@@ -3,8 +3,8 @@
 Thank you for taking the time to explore my profile; I appreciate it.
 
 ## 🔹I take part in:
-- Discord Community Architecture ; Management & Moderation
-- Tinkering with Discord Bots, and Mastering them
+- Discord Community Architecture ; Management & Moderation [On Hiatus]
+- Tinkering with Discord Bots, and Mastering them [On Halt]
 - Coding with popular languages like Python, HTML and CSS
 - Content Writing (Documentations etc.)
 - Minecraft Texture Pack Creation (Fixing 3D Model Textures & Creation of Mashup Packs)
