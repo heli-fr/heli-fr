@@ -21,6 +21,6 @@ The name is Yuvraj (aka @heli_fr), I'm a 15-year-old student from New Delhi, Ind
 
 <div align="center">
   <a href="https://discord.com/users/587605569439924224">
-    <img src="https://lanyard.cnrad.dev/api/587605569439924224?showUserName=true&idleMessage=Idle." alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/587605569439924224?showUserName=true&idleMessage=Idling/Offline" alt="Discord Presence" />
   </a>
 </div>
